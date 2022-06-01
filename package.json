@@ -1,0 +1,14 @@
+{
+    "name": "boids",
+    "description": "An implementation of boids algorithm.",
+    "files": [
+        "src/*"
+    ],
+    "scripts": {
+        "start": "http-server "
+    },
+    "devDependencies": {
+        "http-server",
+        "two"
+    }
+}
